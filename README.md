@@ -2,7 +2,6 @@
 
 I'm Paul Okewunmi a Data Scientist. I spend most of time coding machine learning related projects.
 
-### Reach out to me via:
 ![Twitter Follow](https://img.shields.io/twitter/follow/paul_okewunmi?color=1DA1F2&logo=twitter&style=for-the-badge)
 ![Twitter URL](https://img.shields.io/twitter/url?color=red&label=BLOG&logo=hashnode&style=for-the-badge&url=https%3A%2F%2Fpaulokewunmi.hashnode.dev%2F)
 ![Twitter URL](https://img.shields.io/twitter/url?color=0077B5&label=LinkedIn&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpaul-okewunmi-a24526171)
