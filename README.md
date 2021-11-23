@@ -11,7 +11,6 @@ I'm Paul Okewunmi a Data Scientist. I spend most of time coding machine learning
 
 - 🌱 I’m currently learning... everything :nerd_face:
 - 👯 I’m looking to collaborate on any cool ML project  
-- 🥅 2020 Goals: Contribute more to Open Source projects (2020 is almost over i know :smirk:)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge fan of NF.
 
