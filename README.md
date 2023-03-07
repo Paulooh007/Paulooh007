@@ -7,7 +7,7 @@
 
 </br>
 
-- 🌱 I’m currently learning to build ML Infrastructures on web,mobile and Cloud :nerd_face:
+- 🌱 I’m currently learning to build ML Infrastructure on web,mobile and Cloud :nerd_face:
 - 👯 I’m looking to collaborate on any cool ML/Software project  
 - 😄 Pronouns: he/him
 
