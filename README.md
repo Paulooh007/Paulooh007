@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning to build ML Infrastructure on web,mobile and Cloud :nerd_face:
 - 👯 I’m looking to collaborate on any cool ML/Software project  
-- 😄 Pronouns: he/him
-
 
 <br />
 
@@ -34,6 +32,3 @@
 [linkedin]: https://www.linkedin.com/in/paul-okewunmi-a24526171
 
 <br />
-
-### Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Paulooh007&hide=issues,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
