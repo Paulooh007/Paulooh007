@@ -8,7 +8,7 @@
 </br>
 
 - 🌱 I'm currently learning to do AI research :nerd_face:
-- 👯 I’m looking to collaborate on any cool ML/Software project  
+- 👯 I’m looking to collaborate on any interesting research idea  
 
 <br />
 
