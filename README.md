@@ -7,7 +7,7 @@
 
 </br>
 
-- 🌱 I'm currently learning to build ML infrastructure for web, mobile, and cloud platforms :nerd_face:
+- 🌱 I'm currently learning to do AI research :nerd_face:
 - 👯 I’m looking to collaborate on any cool ML/Software project  
 
 <br />
